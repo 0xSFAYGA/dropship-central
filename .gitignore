@@ -1,0 +1,21 @@
+# Ignore Python virtual environments
+venv/
+env/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment files
+.env
+.venv
+
+# VSCode or IDE folders
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
