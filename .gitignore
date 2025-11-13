@@ -19,3 +19,5 @@ __pycache__/
 # OS-specific files
 .DS_Store
 Thumbs.db
+/home/devy/projects/dropship-central/docs/prompts
+docs/prompts
